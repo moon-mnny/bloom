@@ -1,30 +1,55 @@
-## Welcome to GitHub Pages
+<img src ="./client/src/img/bloom-splash.gif" style="height:40px"/>
 
-You can use the [editor on GitHub](https://github.com/pamelv/bloom/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
+# Bloom
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+Bloom is a mobile based mood tracking app that helps users track their mood patterns and manage it with the app’s self-improvement features.
 
-### Markdown
+## Overview
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+````markdown
+### Concept
+
+The concept for Bloom was inspired by the rising need for mental health management due to the events caused by the global pandemic of Covid-19.
+
+### Features
+
+Bloom requires a user to log in their mood in order to access its features.
+Each mood selection would render a specific profile and dashboard that are customized to help the user manage their state of emotion.
+
+### Images
+
+[Image](./Screenshots/Logmood.png)
+[Image](./Screenshots/Moodlog.png)
+[Image](./Screenshots/Content-playlist.png)
+[Image](./Screenshots/Bookmark.png)
+[Image](./Screenshots/Sidemenu.png)
+
+<img src="./Screenshots/Logmood.png">
+<img src="./Screenshots/Moodlog.png">
+<img src="./Screenshots/Content-playlist.png">
+<img src="./Screenshots/Bookmark.png">
+<img src="./Screenshots/Sidemenu.png">
+
+## Technical Overview
 
 ```markdown
-Syntax highlighted code block
+### Dependencies/Utilized Technologies
 
-# Header 1
-## Header 2
-### Header 3
+- Node.js
+- Express.js
+- JWT
+- Mongoose
+- React
+- API
 
-- Bulleted
-- List
+### Live App
 
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
+[Live Heroku App](https://projectbloom.herokuapp.com/)
 ```
+````
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
+## Contributors
 
+- [Pamela Vasquez](https://github.com/pamelv)
+- [Moon Jo](https://github.com/moon-mnny)
+- [Chloe Choi](https://github.com/chloec222)
