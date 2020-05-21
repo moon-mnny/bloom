@@ -16,11 +16,11 @@ Bloom requires a user to log in their mood in order to access its features.
 Each mood selection would render a specific profile and dashboard that are customized to help the user manage their state of emotion.
 
 ### Images
-<img src="./Screenshots/Logmood.png" style="height:50px;">
-<img src="./Screenshots/Moodlog.png" style="height:50px;">
-<img src="./Screenshots/Content-playlist.png" style="height:50px;">
-<img src="./Screenshots/Bookmark.png" style="height:50px;">
-<img src="./Screenshots/Sidemenu.png" style="height:50px;">
+<img src="./Screenshots/Logmood.png" height="150px">
+<img src="./Screenshots/Moodlog.png" height="150px">
+<img src="./Screenshots/Content-playlist.png" height="150px">
+<img src="./Screenshots/Bookmark.png" height="150px">
+<img src="./Screenshots/Sidemenu.png" height="150px">
 
 ## Technical Overview
 
