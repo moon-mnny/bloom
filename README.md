@@ -6,7 +6,6 @@ Bloom is a mobile based mood tracking app that helps users track their mood patt
 
 ## Overview
 
-````markdown
 ### Concept
 
 The concept for Bloom was inspired by the rising need for mental health management due to the events caused by the global pandemic of Covid-19.
@@ -26,7 +25,7 @@ Each mood selection would render a specific profile and dashboard that are custo
 
 ## Technical Overview
 
-```markdown
+
 ### Dependencies/Utilized Technologies
 
 - Node.js
@@ -39,8 +38,7 @@ Each mood selection would render a specific profile and dashboard that are custo
 ### Live App
 
 [Live Heroku App](https://projectbloom.herokuapp.com/)
-```
-````
+
 
 ## Contributors
 
