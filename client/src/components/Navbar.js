@@ -6,7 +6,7 @@ import Typography from "@material-ui/core/Typography";
 import Drawermeu from "./Drawermenu";
 import pinkimg from "../img/bloom_pink.gif";
 import orangeimg from "../img/bloom_orange.gif";
-import blueimg from "../img//blue.gif";
+import blueimg from "../img/blue.gif";
 
 const useStyles = makeStyles((theme) => ({
   root: {
