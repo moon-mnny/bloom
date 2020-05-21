@@ -1,4 +1,4 @@
-<img src ="./client/src/img/bloom-splash.gif" style="height:40px"/>
+<img src ="./client/src/img/bloom-splash.gif" height="300">
 
 # Bloom
 
@@ -16,11 +16,11 @@ Bloom requires a user to log in their mood in order to access its features.
 Each mood selection would render a specific profile and dashboard that are customized to help the user manage their state of emotion.
 
 ### Images
-<img src="./Screenshots/Logmood.png" height="150px">
-<img src="./Screenshots/Moodlog.png" height="150px">
-<img src="./Screenshots/Content-playlist.png" height="150px">
-<img src="./Screenshots/Bookmark.png" height="150px">
-<img src="./Screenshots/Sidemenu.png" height="150px">
+<img src="./Screenshots/Logmood.png" height="500">
+<img src="./Screenshots/Moodlog.png" height="500">
+<img src="./Screenshots/Content-playlist.png" height="500">
+<img src="./Screenshots/Bookmark.png" height="500">
+<img src="./Screenshots/Sidemenu.png" height="500">
 
 ## Technical Overview
 
